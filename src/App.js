@@ -1,5 +1,5 @@
-import React from "react";
-import { Routes, Route } from "react-router-dom";
+// import React from "react";
+// import { Routes, Route } from "react-router-dom";
 
 
 const App = () => {
@@ -9,7 +9,7 @@ const App = () => {
       <Route path="/" element={<></>} />
 
     </Routes> */
-    <div className="text-red-50"> a</div>
+    <div className="text-red-800"> a</div>
   );
 };
 
